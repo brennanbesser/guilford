@@ -526,6 +526,9 @@ a.text-warning:hover {
 .text-danger {
   color: #a94442;
 }
+.text-white{
+color: white;
+}
 a.text-danger:hover {
   color: #843534;
 }
@@ -4364,7 +4367,11 @@ a.list-group-item.active > .badge,
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
+  /*background-size:100% 100%;*/
+
   background-color: #eeeeee;
+  background-image: url("../../img/jpeg.jpg");
+  background-repeat: no-repeat;
 }
 .jumbotron h1,
 .jumbotron .h1 {
