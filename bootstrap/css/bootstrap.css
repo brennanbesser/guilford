@@ -5786,3 +5786,49 @@ button.close {
     display: none !important;
   }
 }
+
+#index-img{
+  background-image: url("../../img/IMG_2239.JPG"); 
+  height: 600px  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 37%;
+}
+#about-img{
+  background-image: url("../../img/5344617_orig.jpg"); 
+  height: 600px  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 50%;
+}
+#admission-img{
+  background-image: url("../../img/GuilfordCollegePhoto2.jpg"); 
+  height: 600px  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 50%;
+}
+#stulife-img{
+  background-image: url("../../img/2840571756.jpg"); 
+  height: 600px  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 37%;
+}
+#rep-img{
+  background-image: url("../../img/IMG_2240.JPG"); 
+  height: 600px  ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 50%;
+}
